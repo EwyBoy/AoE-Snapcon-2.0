@@ -16,7 +16,8 @@ Snapcon 2.0 is the second iteration of a custom macro script made in Python for 
 
 # Keymap #
 
-[|](*The key left to the number 1 key*) = TOGGLE BETWEEN BUILDING AND MILITARY MODE
+TOGGLE BETWEEN BUILDING AND MILITARY MODE USING THE PIPE KEY |
+*The key to the left for the number 1 key*
 
 | Key     | BULIDING MODE | MILITARY MODE |
 | --------|---------------|---------------|
