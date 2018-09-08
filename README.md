@@ -21,7 +21,7 @@ TOGGLE BETWEEN BUILDING AND MILITARY MODE USING THE PIPE KEY |
 
 | Key     | BULIDING MODE | MILITARY MODE |
 | --------|---------------|---------------|
-| 1  	  | House  		  | House    	  |
+| 1  	  | House  		  | Barracks    	  |
 | 2  	  | Mill  		  | Archery Range |
 | 3  	  | Farm  		  | Stable    	  |
 | 4  	  | Mining Camp   | Siege Workshop|
