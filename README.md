@@ -1,8 +1,8 @@
-![alt text](https://media.giphy.com/media/2sYcUIFxphkBvR4S5J/giphy.gif)
-
 # Snapcon 2.0 #
 
-Snapcon 2.0 is the second iteration of a custom macro script made in Python for Age of Empire II with UI-Overlay.
+Snapcon 2.0 is the second iteration of a custom macro script made in Python for Age of Empire II with UI-Overlay. 
+
+![](https://media.giphy.com/media/2sYcUIFxphkBvR4S5J/giphy.gif)
 
 # How to use #
 
@@ -22,7 +22,7 @@ Edit the keybindings.ini file to configure the defualt keybinds.
 Since I am from Norway I use: |1234567890+\ instead of `1234567890-=.
 
 Map the keys to fit your own keyboard. I prefer to use all the keys on the top row like this.
-![alt text](https://i.imgur.com/DO2pblv.jpg)
+![](https://i.imgur.com/DO2pblv.jpg)
 
 # Keymap #
 
