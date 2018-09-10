@@ -14,10 +14,19 @@ Snapcon 2.0 is the second iteration of a custom macro script made in Python for 
 *  8: It should look like this when you are done: https://imgur.com/a/XcD0b
 *  9: Go back to the game and you are DONE!
 
+# Configs #
+Edit the keybindings.ini file to configure the defualt keybinds.
+
+Since I am from Norway I use: |1234567890+\ instead of `1234567890-=.
+
+Map the keys to fit your own keyboard. I prefer to use all the keys on the top row like this.
+![alt text](https://i.imgur.com/DO2pblv.jpg)
+
 # Keymap #
 
-TOGGLE BETWEEN BUILDING AND MILITARY MODE USING THE PIPE KEY |
-*The key to the left for the number 1 key*
+| Key     | SWITCH MODE |
+| --------|---------------|
+| `  	  | Switches between building & military mode 		  |
 
 | Key     | BULIDING MODE | MILITARY MODE |
 | --------|---------------|---------------|
@@ -31,8 +40,8 @@ TOGGLE BETWEEN BUILDING AND MILITARY MODE USING THE PIPE KEY |
 | 8  	  | University    | Stone Tower   |
 | 9  	  | Monastery  	  | Cannon Tower  |
 | 0  	  | Town Center   | Castle    	  |
-| +  	  | Dock  		  | Wooden Gate   |
-| \  	  | Wonder  	  | Stone Gate    |
+| -  	  | Dock  		  | Wooden Gate   |
+| =  	  | Wonder  	  | Stone Gate    |
 
 
 Made by EwyBoy
