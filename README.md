@@ -2,7 +2,7 @@
 
 Snapcon 2.0 is the second iteration of a custom macro script made in Python for Age of Empire II with UI-Overlay. 
 
-![](https://media.giphy.com/media/2sYcUIFxphkBvR4S5J/giphy.gif)
+![image](https://user-images.githubusercontent.com/5883716/120645866-38ebda80-c479-11eb-8af1-0f8c60e469fb.png)
 
 # How to use #
 
