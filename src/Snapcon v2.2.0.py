@@ -2,6 +2,7 @@ import os
 import keyboard
 import pyautogui
 import Tkinter
+
 from ConfigParser import SafeConfigParser
 
 mode = False
