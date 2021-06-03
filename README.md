@@ -6,7 +6,7 @@ Snapcon 2.0 is the second iteration of a custom macro script made in Python for 
 
 # How to use #
 
-*  1: Run the Snapcon v2.X.X.exe file and wait for the script to execute
+*  1: Run the Snapcon v2.x.x.exe file and wait for the script to execute
 *  2: Open Age of Empire II
 *  3: Start a new game single player game 
 *  4: Click the meny button in the top right corner
